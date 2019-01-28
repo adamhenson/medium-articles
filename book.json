@@ -1,0 +1,12 @@
+{
+  "gitbook": "3.2.2",
+  "title": "Medium Articles by Adam Henson",
+  "links" : {
+    "sidebar" : {
+      "@adamhenson" : "https://medium.com/@adamhenson"
+    }
+  },
+  "styles": {
+    "website": "gitbook-theme/css/website.css"
+  }
+}
