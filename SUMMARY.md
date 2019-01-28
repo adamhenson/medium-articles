@@ -1,4 +1,4 @@
 # Table of Contents
 
 * [Articles](README.md)
-  * [Manage Users](SnapshotTestingwithAmbiguity.md)
+  * [Snapshot Testing with Ambiguity](SnapshotTestingwithAmbiguity.md)
